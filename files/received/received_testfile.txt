@@ -1,0 +1,3 @@
+Bu bir test dosyasıdır.
+Dosya transfer sistemini test etmek için oluşturulmuştur.
+Bu dosya, ağ üzerinden güvenli bir şekilde transfer edilecektir. 

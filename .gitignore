@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+*.log
+client.log
+server.log
+
+# Downloaded files
+downloads/
+
+# Test files
+test.txt
+
+# Packet capture files
+*.pcap
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment files
+.env
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db 
