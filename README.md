@@ -199,13 +199,7 @@ Yaygın hatalar ve çözümleri:
    - Sertifikaları kontrol edin
    - Anahtar dosyalarını kontrol edin
 
-## Katkıda Bulunma
 
-1. Fork'layın
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
 
 ## Lisans
 
@@ -214,5 +208,5 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ## İletişim
 
 Proje Sahibi - [@Kutibios](https://github.com/Kutibios)
-
+E-posta: [leventkutaysezer@gmail.com](mailto:leventkutaysezer@gmail.com)
 Proje Linki: [https://github.com/Kutibios/securefiletransfer](https://github.com/Kutibios/securefiletransfer)
