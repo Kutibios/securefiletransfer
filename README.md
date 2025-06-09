@@ -6,6 +6,27 @@ Bu proje, güvenli dosya transferi için geliştirilmiş kapsamlı bir Python uy
 
 Bu proje, dosya transferlerini güvenli hale getirmek ve ağ performansını analiz etmek için geliştirilmiştir. Temel amacı, dosyaların güvenli bir şekilde transfer edilmesini sağlamak ve bu süreçte oluşabilecek güvenlik açıklarını tespit etmektir.
 
+## Proje Yapısı
+
+```
+securefiletransfer/
+├── server.py                 # Sunucu uygulaması
+├── client.py                 # İstemci uygulaması
+├── gui.py                    # Grafiksel kullanıcı arayüzü
+├── crypto_utils.py           # Kriptografik işlemler
+├── raw_transfer_utils.py     # Ham veri transferi
+├── network_performance.py    # Ağ performans analizi
+├── packet_analyzer.py        # Paket analizi
+├── mitm_simulator.py         # MITM saldırı simülasyonu
+├── security_tests.py         # Güvenlik testleri
+├── files/                    # Dosya transfer klasörü
+│   ├── to_send/             # Gönderilecek dosyalar
+│   └── received/            # Alınan dosyalar
+├── downloads/               # İndirilen dosyalar
+├── .gitignore              # Git tarafından yok sayılacak dosyalar
+└── README.md               # Proje dokümantasyonu
+```
+
 ## Özellikler ve Bileşenler
 
 ### 1. Güvenli Dosya Transferi
@@ -178,7 +199,13 @@ Yaygın hatalar ve çözümleri:
    - Sertifikaları kontrol edin
    - Anahtar dosyalarını kontrol edin
 
+## Katkıda Bulunma
 
+1. Fork'layın
+2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
+4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
+5. Pull Request oluşturun
 
 ## Lisans
 
