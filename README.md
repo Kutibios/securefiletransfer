@@ -23,7 +23,7 @@ securefiletransfer/
 │   ├── to_send/             # Gönderilecek dosyalar
 │   └── received/            # Alınan dosyalar
 ├── downloads/               # İndirilen dosyalar
-├── .gitignore              # Git tarafından yok sayılacak dosyalar
+├── .gitignore              
 └── README.md               # Proje dokümantasyonu
 ```
 
